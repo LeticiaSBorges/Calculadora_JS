@@ -1,4 +1,5 @@
 # Calculadora_JS
-Calculadora em HTML 5, CSS e JavaScript
+Este projeto consistiu na criação de uma calculadora com operaçãoes básicas de matemática que foram soma, subtração, multiplicação e divisão. 
+As linguagens utilizadas foram HTML 5, CSS e JavaScript.
 
-Está calculadora utilizou comando basicos em HTML5, CSS e JavaScript, posibilitando operações basicas de matemática.
+O resultado foi:
