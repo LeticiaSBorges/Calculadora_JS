@@ -4,6 +4,7 @@ As linguagens utilizadas foram HTML 5, CSS e JavaScript.
 
 O resultado foi:
 
+![Imagem 1 - Layout e Calculadora.](https://github.com/LeticiaSBorges/Calculadora_JS/blob/e4c1d16c2fccd2971b2205e61b209f8b92631832/img/calc1.PNG?raw=true)
 
 ~~~html
 Esta é uma linha de código em HTML.
