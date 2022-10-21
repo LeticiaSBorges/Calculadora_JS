@@ -2,7 +2,7 @@
 Este projeto consistiu na criação de uma calculadora com operaçãoes básicas de matemática que foram soma, subtração, multiplicação e divisão. 
 As linguagens utilizadas foram HTML 5, CSS e JavaScript.
 
-O resultado foi:
+O resuldado do projeto pode ser observado [aqui](https://phantom-uneven-crystal.glitch.me), ou nas imagens a seguir.
 
 ![Imagem 1 - Layout e Calculadora.](https://github.com/LeticiaSBorges/Calculadora_JS/blob/e4c1d16c2fccd2971b2205e61b209f8b92631832/img/calc1.PNG?raw=true)
 
