@@ -3,3 +3,8 @@ Este projeto consistiu na criação de uma calculadora com operaçãoes básicas
 As linguagens utilizadas foram HTML 5, CSS e JavaScript.
 
 O resultado foi:
+
+
+~~~html
+Esta é uma linha de código em HTML.
+~~~
