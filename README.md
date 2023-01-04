@@ -2,7 +2,7 @@
 Este projeto consistiu na criação de uma calculadora com operaçõs básicas de matemática que foram soma, subtração, multiplicação e divisão. 
 As linguagens utilizadas foram HTML 5, CSS e JavaScript.
 
-O resuldado do projeto pode ser apreciado em funcionamento clicando [aqui](https://rapid-graceful-tortoise.glitch.me), ou observado por meio das imagens a seguir.
+O resuldado do projeto pode ser apreciado em funcionamento clicando [aqui](https://calculadora-simples-js.glitch.me), ou observado por meio das imagens a seguir.
 
 ![Imagem 1 - Layout e Calculadora.](https://github.com/LeticiaSBorges/Calculadora_JS/blob/e4c1d16c2fccd2971b2205e61b209f8b92631832/img/calc1.PNG?raw=true)
 
